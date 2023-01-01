@@ -1,6 +1,7 @@
 # Play-With-Cube
 
-Simple Project using Three.js and lil.gui interface to edit a cube
+Simple Project using Three.js and lil.gui interface to edit a cube.
+The project is in the early stage of development.
 
 
 
