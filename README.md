@@ -14,6 +14,7 @@ Simple Project using Three.js and lil.gui interface to edit a cube.
 ```sh
 $ npm install 
 $ npm install --save lil-gui
+$ npm install --save gsap@3.5.1
 ```
 Running
 ```sh
