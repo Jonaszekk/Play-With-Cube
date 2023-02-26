@@ -4,7 +4,7 @@ Simple Project using Three.js and lil.gui interface to edit a cube.
 
 
 
-![PlayWithCube](https://user-images.githubusercontent.com/90138353/210181197-c1014412-4ad8-434d-a4ef-f3aecb10a1d1.PNG)
+![image](https://user-images.githubusercontent.com/90138353/221422209-c815b44d-e02a-4727-a41e-c76f28c9accb.png)
 
 
 
